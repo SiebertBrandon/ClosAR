@@ -1,5 +1,6 @@
 # ClosAR
 HackRU Spring 2017 Solo Project
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]()
 [![GitHub license](https://img.shields.io/badge/language-Java-orange.svg)]()
 
