@@ -1,5 +1,5 @@
 # ClosAR
-HackRU Spring 2017 Solo Project
+HackRU Spring 2017 Solo Project https://devpost.com/software/closar
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]()
 [![GitHub license](https://img.shields.io/badge/language-Java-orange.svg)]()
@@ -10,6 +10,10 @@ Heading into the Hackathon this semester, I was interested in creating an augmen
 
 ClosAR is an application for giving directionality to GPS coordinates. Given access to data and a compass, we can plot points on a map and find out where points of interest lie in the real world, but translating that to pointing your finger will take some orientation first. ClosAR bring AR closer to your life by providing an interface that overlays 2D sprites on to 3D physical locations. These sprites virtually rotate around the device as the user turns around and appear as the user is facing the right direction.
 
+## Images
+
+// TODO
+
 ## Build Instructions
 
-Code will soon be ported from the device used at the hackathon
+// TODO
